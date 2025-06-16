@@ -6,7 +6,7 @@
 
 📘 Interested in strengthening my web development skills and exploring AI.
 
-📫 Send me ideas here: sabadomarckantony@gmail.com
+📫 Reach me at: sabadomarckantony@gmail.com
 
 <!--
 **Anthony77-fool/Anthony77-fool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
