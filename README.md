@@ -4,7 +4,7 @@
 
 🔧 Currently learning Bootstrap.
 
-📘 Interested in strengthening my web development skills and exploring AI.
+📘 Interested in strengthening my web development skills and exploring the field of AI.
 
 📫 Reach me at: sabadomarckantony@gmail.com
 
