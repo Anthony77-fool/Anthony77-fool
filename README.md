@@ -1,5 +1,5 @@
 ## Hi, I'm Ken 👋
-🎓 I'm a 2nd year student currently studying Information Technology.<br><br>🔧 Currently learning Bootstrap.<br><br>📘 Interested in further strengthening my web development skills and exploring the field of AI.<br><br>📫 Email me at sabadomarckantony@gmail.com
+🎓 I'm a 2nd year student currently studying Information Technology at [Mariano Marcos State University](https://www.mmsu.edu.ph/).<br><br>🔧 Currently learning Bootstrap.<br><br>📘 Interested in further strengthening my web development skills and exploring the field of AI.<br><br>📫 Email me at sabadomarckantony@gmail.com
 
 
 # 💻 Tech Stack:
