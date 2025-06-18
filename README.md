@@ -4,9 +4,9 @@
 
 🔧 Currently learning Bootstrap.
 
-📘 Interested in strengthening my web development skills and exploring the field of AI.
+📘 Interested in further strengthening my web development skills and exploring the field of AI.
 
-📫 Reach me at: sabadomarckantony@gmail.com
+📫 Email me at sabadomarckantony@gmail.com
 
 <!--
 **Anthony77-fool/Anthony77-fool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
