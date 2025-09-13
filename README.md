@@ -1,5 +1,5 @@
 ## Hi, I'm Anthony 👋
-🎓 I'm a 3rd year student currently studying Information Technology at [Mariano Marcos State University](https://www.mmsu.edu.ph/)<br><br>🔧 Gonna be learning ReactJS.<br><br>📘 Interested in further strengthening my web development skills and exploring the field of AI.<br><br>📫 Email me at sabadomarckantony@gmail.com
+🎓 I'm a 3rd year student currently studying Information Technology at [Mariano Marcos State University](https://www.mmsu.edu.ph/)<br><br>🔧 Currently learning ReactJS.<br><br>📘 Interested in further strengthening my web development skills and exploring the field of AI.<br><br>📫 Email me at sabadomarckantony@gmail.com
 
 
 # 💻 Tech Stack:
