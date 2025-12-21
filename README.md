@@ -19,7 +19,7 @@
 ![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anthony77-fool&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Anthony77-fool&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Anthony77-fool&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony77-fool&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
