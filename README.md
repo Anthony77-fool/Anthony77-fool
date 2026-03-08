@@ -18,7 +18,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Cisco](https://img.shields.io/badge/cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 # 📊 GitHub Stats:
