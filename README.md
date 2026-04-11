@@ -1,5 +1,19 @@
-## Hi, I'm Anthony 👋
-🎓 I'm currently an incoming senior student studying BS in Information Technology at [Mariano Marcos State University](https://www.mmsu.edu.ph/)<br><br>🔧 Currently learning Laravel.<br><br>📘 Interested in further strengthening my web development skills and exploring the field of AI.<br><br>📫 Email me at sabadomarckantony@gmail.com
+# Hi, I'm Anthony! 👋 
+
+**Full-Stack Web Developer | AIoT Researcher | Agentic AI Specialist**
+
+I am a Developer and Researcher bridging the gap between **Artificial Intelligence, IoT, and Full-Stack Systems**. Currently an incoming senior BSIT student at Mariano Marcos State University, I specialize in building intelligent, scalable applications that solve complex, physical-world problems.
+
+---
+
+### 🛠️ Technical Arsenal
+
+* **AI & Machine Learning:** Agentic AI (Gemini, Chatbase), Computer Vision (YOLOv8/v11), NLP.
+* **IoT & Embedded Systems:** C++, Python, ESP32, ESP8266, Arduino, Sensor Integration, Edge AI.
+* **Full-Stack Development:** Laravel (PHP), ReactJS, Tailwind CSS, MySQL, NoSQL.
+* **Other Tools:** Docker, n8n, Git, Cisco Networking.
+
+---
 
 
 # 💻 Tech Stack:
@@ -19,6 +33,14 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Cisco](https://img.shields.io/badge/cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
+![YOLOv11](https://img.shields.io/badge/YOLOv11-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-FF6F00?style=for-the-badge&logo=googlegemini&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-F1502F?style=for-the-badge&logo=pandas&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Anthony77-fool&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
@@ -29,18 +51,6 @@
 [![](https://visitcount.itsvg.in/api?id=Anthony77-fool&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**Anthony77-fool/Anthony77-fool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
