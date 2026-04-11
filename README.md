@@ -2,7 +2,7 @@
 
 **Full-Stack Web Developer | AIoT Researcher | Agentic AI Specialist**
 
-I am a Developer and Researcher bridging the gap between **Artificial Intelligence, IoT, and Full-Stack Systems**. Currently an incoming senior BSIT student at Mariano Marcos State University, I specialize in building intelligent, scalable applications that solve complex, physical-world problems.
+I am a Developer and Researcher bridging the gap between **Artificial Intelligence, IoT, and Full-Stack Web Systems**. Currently an incoming senior BSIT student at Mariano Marcos State University, I specialize in building intelligent, scalable applications that solve complex, physical-world problems.
 
 ---
 
