@@ -34,6 +34,7 @@ I am a Developer and Researcher bridging the gap between **Artificial Intelligen
 ![Cisco](https://img.shields.io/badge/cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![YOLOv11](https://img.shields.io/badge/YOLOv11-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-FF6F00?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-3776AB?style=for-the-badge&logo=python&logoColor=white)
