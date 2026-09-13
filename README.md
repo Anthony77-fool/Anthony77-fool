@@ -8,9 +8,9 @@ I am a Developer and Researcher bridging the gap between **Artificial Intelligen
 
 ### 🛠️ Technical Arsenal
 
-* **AI & Machine Learning:** Agentic AI (Gemini, Chatbase), Computer Vision (YOLOv8/v11), NLP.
+* **AI & Machine Learning:** Agentic AI (LangGraph, Gemini, Chatbase, n8n), Machine Learning & Deep Learning (PyTorch, Scikit-Learn, YOLOv8/v11), NLP.
 * **IoT & Embedded Systems:** C++, Python, ESP32, ESP8266, Arduino, Sensor Integration, Edge AI.
-* **Full-Stack Development:** Laravel (PHP), ReactJS, Tailwind CSS, MySQL, NoSQL.
+* **Full-Stack Development:** Laravel (PHP), ReactJS, Tailwind CSS, Database Management (MySQL, Supabase, NoSQL).
 * **Other Tools:** Docker, n8n, Git, Cisco Networking.
 
 ---
